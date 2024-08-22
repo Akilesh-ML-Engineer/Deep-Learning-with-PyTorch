@@ -2,3 +2,4 @@ pytorch-deep-learning
 pytorch-deep-learning-main
 .ipynb_checkpoints
 __pycache__
+*.pth
